@@ -1,0 +1,11 @@
+{
+  "name": "ml2023-notes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "marked": "^16.0.0"
+  }
+}
